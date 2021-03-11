@@ -1,0 +1,17 @@
+.card {
+	margin-bottom: 20px;
+	height: 200px;
+	border-radius: 15px;
+}
+
+.card-beige {
+	background: $secondary-color;
+}
+.card-white {
+	background: $white;
+	border: 3px solid $pink;
+}
+.card-pink {
+	background: $pink;
+	border: 3px solid $white;
+}

@@ -1,0 +1,22 @@
+nav {
+	background: $secondary-color;
+}
+.nav-link {
+	color: $dark-grey;
+	text-transform: uppercase;
+}
+.nav-link:hover {
+	color: $light-grey;
+}
+.active {
+	color: $pink;
+}
+.navbar-brand {
+	color: $black;
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 1.5rem;
+}
+.navbar-brand:hover {
+	color: $black;
+}
